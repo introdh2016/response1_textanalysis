@@ -6,9 +6,11 @@ The 500-1500 word response should explain the data set, the initial findings, an
 - What are the initial findings and/or possible arguments? In other words, what do these topics tell us?
 - What are the possibilities and limitations of topic modeling?
 
-1. Post your response to our GitHub page. 
-2. Citations: Please use a modified  format since citations will be drawn from course readings. Cite relevant readings using in-text/ parenthetical citations: (author, publication, date). Ex. (Blevins, personal blog, 09-09-2009) or (Goldstone and Underwood, JDH, 2012). 
-3. Grading: Rubric 
+More details:
+
+- Post your response to the [ Text Analysis Response GitHub repository](https://github.com/introdh2016/response1_textanalysis). 
+- Citations: Please use a modified  format since citations will be drawn from course readings. Cite relevant readings using in-text/ parenthetical citations: (author, publication, date). Ex. (Blevins, personal blog, 09-09-2009) or (Goldstone and Underwood, JDH, 2012). 
+- Grading: Rubric 
 
 
 # Corpus
