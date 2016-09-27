@@ -8,7 +8,7 @@ The 500-1500 word response should explain the data set, the initial findings, an
 
 More details:
 
-- Post your response to the [ Text Analysis Response GitHub repository](https://github.com/introdh2016/response1_textanalysis). 
+- Post your response to your branch inside the [ Text Analysis Response GitHub repository](https://github.com/introdh2016/response1_textanalysis).   To do this, go to [ the repository](https://github.com/introdh2016/response1_textanalysis) and click on "Branch: master". Type in your last name where it says "Find or create a branch". Then, click on the "create branch: YOURLASTNAME". You now have a branch! Post all your materials in there.
 - Images: Include images of your topic models. Save the photos in the Text Analysis Response Github repo. To get the image link, right click and select "Copy Link Address". It should look like: https://github.com/introdh2016/response1_textanalysis/blob/master/NAMEOFYOURIMAGE.jpg?raw=true .... For example: https://github.com/introdh2016/response1_textanalysis/blob/master/IMG_3680.jpg?raw=true
 - Citations: Please use a modified  format since citations will be drawn from course readings. Cite relevant readings using in-text/ parenthetical citations: (author, publication, date). Ex. (Blevins, personal blog, 09-09-2009) or (Goldstone and Underwood, JDH, 2012). 
 - Grading: Rubric 
