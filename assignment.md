@@ -24,5 +24,26 @@ More details:
 Visit [here](fr.jstor.org). Set up an account and select your data. Select Data Type: "Citations Only" and "Word Counts" and Output Format: "CSV".  If the data has more than 1000 records, there are two options. You can make several requests to capture all the data or you need to select a subset. If you do not, you will get a random generated subset from JStor.
 
 ## 
-Once you have the data, please email me. The data will need to be processed and we are using Andrew Goldstone’s [Count2Text](https://github.com/agoldst/dfr-analysis/blob/master/count2txt) technique on GitHub.  If you are comfortable, feel free to do it yourself!
+Once you have the data, please email me. The data will need to be processed and we are using Andrew Goldstone’s [Count2Text](https://github.com/agoldst/dfr-analysis/blob/master/count2txt) technique on GitHub.  If you are comfortable, feel free to do it yourself! Here is how:
+
+1. Download the code from github. Save the code to your Desktop.
+2. In the terminal, type:
+
+```sh
+chmod +x ~/Desktop/count2text
+```
+
+3. Then move into the director with your CSV files from Jstor. Once in the folder, type:
+
+```sh
+~/Desktop/count2text.pl --multifile  *.CSV
+```
+
+4. Go back to your file with the Jstor data. Go into wordcounts and you'll see .CSV and .txt files. For Mallet, you will need to put the .txt files in a different folder. 
+
+
+
+
+
+
 
