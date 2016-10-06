@@ -3,3 +3,4 @@
 https://github.com/introdh2016/response1_textanalysis/blob/King/screenshot%20topic1.png?raw=true
 https://github.com/introdh2016/response1_textanalysis/blob/King/screenshot2.png?raw=true
 https://github.com/introdh2016/response1_textanalysis/blob/King/screenshot3.png?raw=true
+https://github.com/introdh2016/response1_textanalysis/blob/King/screenshot4.png?raw=true
