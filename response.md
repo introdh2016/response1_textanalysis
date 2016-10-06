@@ -8,14 +8,14 @@ After accounting for and eliminating Spanish stop words, the topics became clear
 
 ![alt text](https://67.media.tumblr.com/aeb7ab1ed128de6330f6f6414ca1f1a6/tumblr_inline_oelprsPCMV1qdjg6s_540.jpg "Sample from 50")
 
-A potential downside to this is the assumption that the only scholarship done on a particular country is what is shown by the topic model. Another issue with such a large topic model is small countries tend to be grouped together: 
+A potential downside to this is the assumption that the only scholarship done on a particular country is what is shown by the topic model. Small countries tend to be grouped together, which can lead to the assumption that there is little scholarship or that they are all talked about together rather than separately: 
 >“39	0.03668	nicaragua guatemala salvador central costa honduras rica san nicaraguan somoza guatemalan america american managua sandinista state arbenz jose honduran.” 
 
-Another issue is topics can primarily consist of names of places, like one for Brazil:
+Another issue is names of places, and given that many cities and regions in Latin America have multi-word names, it can create topic models like this one for Brazil:
 
 >“11	0.05538	brazil brazilian rio paulo janeiro sao brasil state coffee federal vargas minas portuguese national kubitschek club brazilians brasileira gerais”
 
-Nine of the words are names of places. Another issue with fifty topics is they tend to become repetitive, rotating between economics, government, and social issues.  
+Nine of the words are names of places, which can show the importance of these places but can also take up a lot of space in a topic group. Another issue with fifty topics is they tend to become repetitive, rotating between economics, government, and social issues.  
 
 Reducing the number of topics down to ten proves to be too small and too general, leaving out a number of countries and topics. It would lead one to assume that the only countries in Latin America are Mexico, Brazil, Argentina, and Cuba. 
 ![alt text](https://66.media.tumblr.com/028360816337061cca665577416e9860/tumblr_inline_oelprkZVW51qdjg6s_540.jpg "10 Topics")
