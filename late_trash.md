@@ -1,4 +1,4 @@
-#Topic Modeling with the Journal of Japane
+#Topic Modeling with the Journal of Japanese Studies
 
 Using The Journal of Japanese Studies (JJS) as my corpus, in order to analyze how the construction of topics evolved as the number inputted increased, I did topic modeling four different times: 10 topics; 40 topics; 70 topics; and 100 topics. Firstly, I’d like to discuss the corpus before I attempt to explain anything about the topics that were produced. Established in 1974, the JJS is the forum for multidisciplinary issues to be facilitated, in English, as they stem from, or place relative focus on, Japan. The journal publishes roughly 500-page volumes twice a year, summer and winter. Prior to the actual topic modeling, due to the nature of the JJS, it can be assumed that the topics produced would reflect some aspect of Japanese history, culture and society. Furthermore, these kinds of topics would have certain keywords that an English audience would expect to appear based upon the journal’s description. 
 
